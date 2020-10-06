@@ -9,6 +9,6 @@ Here is my response to the prompt at the end of this intro Coding Train lesson.
 
 <img src="images/2D-Primitives.jpg" width="600">
 
-**1. ALL THE ARCS**
+**2. ALL THE ARCS**
 
 <img src="images/All_The_Arcs.jpg" width="600">
