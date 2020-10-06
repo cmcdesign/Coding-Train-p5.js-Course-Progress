@@ -8,4 +8,7 @@ Here is my response to the prompt at the end of this intro Coding Train lesson.
 * I added my own constraint - Use only two of each primitive
 
 <img src="images/2D-Primitives.jpg" width="600">
+
+**1. ALL THE ARCS**
+
 <img src="images/All_The_Arcs.jpg" width="600">
