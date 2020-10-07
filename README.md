@@ -1,5 +1,5 @@
 # Coding-Train-p5.js-Course-Progress
-Learning p5.js with The Coding Train and documenting my progress/code along the way. I'm a noob so if there are issues with anything I'd appreciate the feedback. 
+Learning p5.js with [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) and documenting my progress/code along the way. I'm a noob so if there are issues with anything I'd appreciate the feedback.
 
 **1. SHAPES & DRAWING EXERCISE**
 
