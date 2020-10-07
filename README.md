@@ -11,6 +11,6 @@ Here is my response to the prompt at the end of [1.3: Shapes & Drawing - p5.js T
 
 **2. FIGURING OUT ARCS**
 
-I'm a visual learner so being able to see a variety of arcs and having them for reference in the future sounded helpful. The [arc reference page](https://p5js.org/reference/#/p5/arc) helps a bit but after reading it I'm still not 100% on how these things work. Hell, after making this I'm still not 100% on it. But making this helped a little.
+I'm a visual learner so being able to see a variety of arcs and having them for reference in the future sounded helpful. The [arc reference page](https://p5js.org/reference/#/p5/arc) covers everything but after reading it I still wasn't 100% on how these things work. Making this poster helped a little.
 
 <img src="images/All_The_Arcs.jpg" width="600">
