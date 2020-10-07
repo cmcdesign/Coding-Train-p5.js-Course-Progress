@@ -9,8 +9,8 @@ Here is my response to the prompt at the end of [1.3: Shapes & Drawing - p5.js T
 
 <img src="images/2D-Primitives.jpg" width="600">
 
-**2. ALL THE ARCS**
+**2. FIGURING OUT ARCS**
 
-Still trying to figure out arcs so this code might not be "right". I'm a visual learner so being able to see a variety of arcs with the code should be a nice cheat sheet moving forward. The p5.js reference page helps a bit but after reading it I'm still not 100% on how these things work. Hell, after making this I'm still not 100% on it. But it helped me a little and I hope it can help others new to p5.js.
+I'm a visual learner so being able to see a variety of arcs and having them for reference in the future sounded helpful. The [arc reference page](https://p5js.org/reference/#/p5/arc) helps a bit but after reading it I'm still not 100% on how these things work. Hell, after making this I'm still not 100% on it. But making this helped a little.
 
 <img src="images/All_The_Arcs.jpg" width="600">
