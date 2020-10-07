@@ -3,7 +3,7 @@ Learning p5.js with [The Coding Train](https://www.youtube.com/channel/UCvjgXvBl
 
 **1. SHAPES & DRAWING EXERCISE**
 
-Here is my response to the prompt at the end of this intro Coding Train lesson.
+Here is my response to the prompt at the end of [1.3: Shapes & Drawing - p5.js Tutorial](https://www.youtube.com/watch?v=c3TeLi6Ns1E).
 * Make your own picture and only use the 2D Primitives
 * I added my own constraint - Use only two of each primitive
 
